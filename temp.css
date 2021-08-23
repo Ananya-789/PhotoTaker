@@ -1,0 +1,62 @@
+body{
+    background:midnightblue;
+}
+
+
+.milky-way_header {
+    background-image: url(gif3.gif);
+    background-size:cover;
+}
+.photohead{
+    margin-top: 0px;
+    width: 900px;
+    border-radius: 3%;
+}
+
+#logoapp {
+    width: 620px;
+    border: azure solid 3px;
+}
+
+.div1 {
+    background-image: url(giphy.gif);
+    background-size: cover;
+}
+
+
+#img1 {
+    width: 300px;
+    border: azure solid 3px;
+}
+.div2 {
+    background-image: url(gif2.gif);
+    background-size: cover;
+}
+#img2 {
+    width: 300px;
+    border: azure solid 3px;
+}
+
+
+.div3 {
+    background-image: url(gif3.gif);
+    background-size: cover;
+}
+#img3 {
+    width: 300px;
+    border: azure solid 3px;
+}
+
+.btnnav {
+    font-size: 16px;
+    padding: 12px 28px;
+    border-radius: 4px;
+    border: cyan solid 2px;
+    
+}
+
+.btnnav:hover {
+    box-shadow: 0 12px 16px 0 black, 0 17px 50px 0 black;
+    
+}
+

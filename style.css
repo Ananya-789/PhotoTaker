@@ -1,0 +1,24 @@
+#body2 {
+    color: snow;
+}
+
+.takehead {
+    width: 900px;
+    margin-top: 0px;
+}
+
+.photobtn{
+    font-size: 16px;
+    padding: 12px 28px;
+    border-radius: 4px;
+    border: red solid 2px;
+}
+
+.photobtn:hover{
+    box-shadow: 0 12px 16px 0 black, 0 17px 50px 0 black;
+
+}
+
+canvas {
+    border: 2px solid black;
+}
